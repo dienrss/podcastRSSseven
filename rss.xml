@@ -5,7 +5,7 @@
 		<description><![CDATA[Body & Mind Updates Podcast Channel]]></description>
 		<link>https://raw.githubusercontent.com/techukr/podcastRSS-Sheet6/main/rss.xml</link>
 		<generator>Body & Mind Updates Publisher</generator>
-		<lastBuildDate>Thu, 11 Jun 2026 16:31:36 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 21 Jul 2026 09:32:23 GMT</lastBuildDate>
 		<atom:link href="https://raw.githubusercontent.com/techukr/podcastRSS-Sheet6/main/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Body & Mind Updates]]></author>
 		<copyright><![CDATA[Body & Mind Updates]]></copyright>
@@ -32,6 +32,19 @@
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>00:15:00</itunes:duration>
             <itunes:image href="https://archive.org/download/podcast_20260611_caitlin_leggett_aml_prognosis/2026-06-11_caitlin_leggett_aml_prognosis_Cover.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+			<item>
+            <title><![CDATA[3 REAL Bitcoin ETF threats ]]></title>
+            <description><![CDATA[<p>Fidelity and Castle Island Ventures reveal urgent data on institutional crypto adoption and ETF market flows for the remainder of 2026. Experts expose the immediate impact of changing interest rates on asset prices and outline a looming quantum computing threat to cryptographic security. Stablecoin networks now process trillions in volume, making legacy banking delays feel like waiting for a horse-drawn carriage to deliver your paycheck. This midyear outlook strips away the noise to deliver verifiable data driving digital asset capital.</p>]]></description>
+            <guid isPermaLink="false">6ef6fe8f-624b-42ea-87bd-66a60569cef6</guid>
+            <dc:creator><![CDATA[ACDT]]></dc:creator>
+            <pubDate>Tue, 21 Jul 2026 09:32:23 GMT</pubDate>
+            <enclosure url="https://archive.org/download/podcast_20260721_fidelity_bitcoin/2026-07-21_fidelity_bitcoin_Audio.mp3" length="18394519" type="audio/mpeg"/>
+            <itunes:summary><![CDATA[<p>Fidelity and Castle Island Ventures reveal urgent data on institutional crypto adoption and ETF market flows for the remainder of 2026. Experts expose the immediate impact of changing interest rates on asset prices and outline a looming quantum computing threat to cryptographic security. Stablecoin networks now process trillions in volume, making legacy banking delays feel like waiting for a horse-drawn carriage to deliver your paycheck. This midyear outlook strips away the noise to deliver verifiable data driving digital asset capital.</p>]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>00:15:00</itunes:duration>
+            <itunes:image href="https://archive.org/download/podcast_20260721_fidelity_bitcoin/2026-07-21_fidelity_bitcoin_Cover.png"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
 	</channel>
