@@ -14,7 +14,7 @@ FILE_PATH = "rss.xml"
 BRANCH = "main"
 
 GOOGLE_SHEET_URL = "https://docs.google.com/spreadsheets/d/1rkvoyKQbquFP21lzCVQhIVF-Ma31chgZqZMy50ba4_I/edit"
-WORKSHEET_NAME = "Sheet6"
+WORKSHEET_NAME = "Sheet7"
 GOOGLE_CREDENTIALS_JSON = os.getenv("GOOGLE_CREDENTIALS_JSON")
 PODCAST_AUTHOR = "ACDT"
 # ================= HÀM XỬ LÝ DỮ LIỆU =================
