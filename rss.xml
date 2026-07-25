@@ -9,7 +9,7 @@
 		<atom:link href="https://raw.githubusercontent.com/dienrss/podcastRSSseven/main/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Body & Mind Updates]]></author>
 		<copyright><![CDATA[Body & Mind Updates]]></copyright>
-		<language><![CDATA[vi]]></language>
+		<language><![CDATA[en]]></language>
 		<itunes:author>Body & Mind Updates</itunes:author>
 		<itunes:summary>Body & Mind Updates Podcast Channel</itunes:summary>
 		<itunes:type>episodic</itunes:type>
