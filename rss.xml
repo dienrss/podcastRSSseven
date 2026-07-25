@@ -3,10 +3,10 @@
 	<channel>
 		<title><![CDATA[Body & Mind Updates]]></title>
 		<description><![CDATA[Body & Mind Updates Podcast Channel]]></description>
-		<link>https://raw.githubusercontent.com/techukr/podcastRSS-Sheet6/main/rss.xml</link>
+		<link>https://raw.githubusercontent.com/dienrss/podcastRSSseven/main/rss.xml</link>
 		<generator>Body & Mind Updates Publisher</generator>
 		<lastBuildDate>Sat, 25 Jul 2026 10:17:30 GMT</lastBuildDate>
-		<atom:link href="https://raw.githubusercontent.com/techukr/podcastRSS-Sheet6/main/rss.xml" rel="self" type="application/rss+xml"/>
+		<atom:link href="https://raw.githubusercontent.com/dienrss/podcastRSSseven/main/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Body & Mind Updates]]></author>
 		<copyright><![CDATA[Body & Mind Updates]]></copyright>
 		<language><![CDATA[vi]]></language>
@@ -19,46 +19,7 @@
 		</itunes:owner>
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:category text="Health &amp; Fitness"/>
-		<itunes:image href="https://raw.githubusercontent.com/techukr/podcastRSS-Sheet6/main/logo.png"/>
-			
-			<item>
-            <title><![CDATA[Leukemia WARNING: 7% donor crisis ]]></title>
-            <description><![CDATA[<p>At just 24 years old, Caitlin Leggett's life was upended by an acute myeloid leukemia (AML) diagnosis. When doctors prepared her sister Grace for a life-saving stem cell transplant, they made a shocking discovery: the sisters were identical twins, making Grace's stem cells unusable. Now facing a terminal six-month prognosis and a severe national donor shortage—with only 7% of the eligible UK population registered—Caitlin is in a race against time. This episode explores Caitlin's resilient fight, the critical importance of the stem cell registry, and her family's urgent 'Saving Caitlin' campaign to raise £500,000 for specialized overseas treatment.</p>]]></description>
-            <guid isPermaLink="false">e68749b5-d11c-4567-9d1a-e24a69921f13</guid>
-            <dc:creator><![CDATA[ACDT]]></dc:creator>
-            <pubDate>Thu, 11 Jun 2026 16:31:36 GMT</pubDate>
-            <enclosure url="https://archive.org/download/podcast_20260611_caitlin_leggett_aml_prognosis/2026-06-11_caitlin_leggett_aml_prognosis_Audio.mp3" length="14039803" type="audio/mpeg"/>
-            <itunes:summary><![CDATA[<p>At just 24 years old, Caitlin Leggett's life was upended by an acute myeloid leukemia (AML) diagnosis. When doctors prepared her sister Grace for a life-saving stem cell transplant, they made a shocking discovery: the sisters were identical twins, making Grace's stem cells unusable. Now facing a terminal six-month prognosis and a severe national donor shortage—with only 7% of the eligible UK population registered—Caitlin is in a race against time. This episode explores Caitlin's resilient fight, the critical importance of the stem cell registry, and her family's urgent 'Saving Caitlin' campaign to raise £500,000 for specialized overseas treatment.</p>]]></itunes:summary>
-            <itunes:explicit>false</itunes:explicit>
-            <itunes:duration>00:15:00</itunes:duration>
-            <itunes:image href="https://archive.org/download/podcast_20260611_caitlin_leggett_aml_prognosis/2026-06-11_caitlin_leggett_aml_prognosis_Cover.png"/>
-            <itunes:episodeType>full</itunes:episodeType>
-        </item>
-			<item>
-            <title><![CDATA[3 REAL Bitcoin ETF threats ]]></title>
-            <description><![CDATA[<p>Fidelity and Castle Island Ventures reveal urgent data on institutional crypto adoption and ETF market flows for the remainder of 2026. Experts expose the immediate impact of changing interest rates on asset prices and outline a looming quantum computing threat to cryptographic security. Stablecoin networks now process trillions in volume, making legacy banking delays feel like waiting for a horse-drawn carriage to deliver your paycheck. This midyear outlook strips away the noise to deliver verifiable data driving digital asset capital.</p>]]></description>
-            <guid isPermaLink="false">6ef6fe8f-624b-42ea-87bd-66a60569cef6</guid>
-            <dc:creator><![CDATA[ACDT]]></dc:creator>
-            <pubDate>Tue, 21 Jul 2026 09:32:23 GMT</pubDate>
-            <enclosure url="https://archive.org/download/podcast_20260721_fidelity_bitcoin/2026-07-21_fidelity_bitcoin_Audio.mp3" length="18394519" type="audio/mpeg"/>
-            <itunes:summary><![CDATA[<p>Fidelity and Castle Island Ventures reveal urgent data on institutional crypto adoption and ETF market flows for the remainder of 2026. Experts expose the immediate impact of changing interest rates on asset prices and outline a looming quantum computing threat to cryptographic security. Stablecoin networks now process trillions in volume, making legacy banking delays feel like waiting for a horse-drawn carriage to deliver your paycheck. This midyear outlook strips away the noise to deliver verifiable data driving digital asset capital.</p>]]></itunes:summary>
-            <itunes:explicit>false</itunes:explicit>
-            <itunes:duration>00:15:00</itunes:duration>
-            <itunes:image href="https://archive.org/download/podcast_20260721_fidelity_bitcoin/2026-07-21_fidelity_bitcoin_Cover.png"/>
-            <itunes:episodeType>full</itunes:episodeType>
-        </item>
-			<item>
-            <title><![CDATA[Thiel's SECRET Dialog leak: 113 elites exposed [June 2026]]]></title>
-            <description><![CDATA[<p>This episode breaks down a series of major security lapses. We start with the massive leak of Peter Thiel and Auren Hoffman's ultra-secret 'Dialog' network, founded 20 years ago [1, 2]. Security researcher maia arson crimew exposed profiles of 113 elites—including Treasury Secretary Scott Bessent, Sen. Ted Cruz, and actor Josh Brolin—revealing private emails, phone numbers, and political leanings [3-5]. Next, we analyze iRhythm's SEC filing confirming a cyberattack where hackers stole patient health information and demanded a ransom [6, 7]. We also examine Nintendo's statement on a data leak involving third-party employee survey service TinyPulse [8], and the $3.3 million class action settlement for the 2025 Mt. Baker Imaging data breach [9, 10].</p>]]></description>
-            <guid isPermaLink="false">fb37f1d5-46d4-46d3-9d1b-746b27987e2d</guid>
-            <dc:creator><![CDATA[ACDT]]></dc:creator>
-            <pubDate>Sat, 25 Jul 2026 10:17:30 GMT</pubDate>
-            <enclosure url="https://archive.org/download/podcast_20260617_data_breach/2026-06-17_data_breach_Audio.mp3" length="13533236" type="audio/mpeg"/>
-            <itunes:summary><![CDATA[<p>This episode breaks down a series of major security lapses. We start with the massive leak of Peter Thiel and Auren Hoffman's ultra-secret 'Dialog' network, founded 20 years ago [1, 2]. Security researcher maia arson crimew exposed profiles of 113 elites—including Treasury Secretary Scott Bessent, Sen. Ted Cruz, and actor Josh Brolin—revealing private emails, phone numbers, and political leanings [3-5]. Next, we analyze iRhythm's SEC filing confirming a cyberattack where hackers stole patient health information and demanded a ransom [6, 7]. We also examine Nintendo's statement on a data leak involving third-party employee survey service TinyPulse [8], and the $3.3 million class action settlement for the 2025 Mt. Baker Imaging data breach [9, 10].</p>]]></itunes:summary>
-            <itunes:explicit>false</itunes:explicit>
-            <itunes:duration>00:15:00</itunes:duration>
-            <itunes:image href="https://archive.org/download/podcast_20260617_data_breach/2026-06-17_data_breach_Cover.png"/>
-            <itunes:episodeType>full</itunes:episodeType>
-        </item>
+		<itunes:image href="https://raw.githubusercontent.com/dienrss/podcastRSSseven/main/logo.png"/>
+		
 	</channel>
 </rss>
